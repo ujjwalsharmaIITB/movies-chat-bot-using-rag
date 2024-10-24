@@ -9,7 +9,7 @@ model_name = "mixedbread-ai/mxbai-embed-large-v1"
 
 hf_embeddings = HuggingFaceEmbeddings(model_name=model_name)
 
-movies_review_dataset_path = "/home/ioeuser/chat/chat-tutorial/movies_data/IMDB-Movie-Dataset(2023-1951).csv"
+movies_review_dataset_path = "/workspaces/movies-chat-bot-using-rag/data/IMDB-Movie-Dataset(2023-1951).csv"
 
 chroma_data_path = "chroma_data"
 
