@@ -24,3 +24,6 @@ All the code is inside the [code](code) folder
 
 - **Breif Information**
 ![Breif Information](images/tumbbad_info.png)
+
+- **Information on other topics**
+  ![other_topics](images/other_than_movies.png)
