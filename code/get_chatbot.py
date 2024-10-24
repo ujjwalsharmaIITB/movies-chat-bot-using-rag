@@ -1,7 +1,3 @@
-import os
-
-os.environ["HF_HOME"] = "/home/ioeuser/chat/chat-tutorial/hf_cache"
-
 from langchain_huggingface import HuggingFacePipeline, ChatHuggingFace
 
 from langchain_huggingface import HuggingFacePipeline
