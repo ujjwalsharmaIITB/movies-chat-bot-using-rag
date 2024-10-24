@@ -15,10 +15,12 @@ All the code is inside the [code](code) folder
 - **Information about movies.** 
 ![Stree 2](images/stree_2_info.png)
 
+- **Generic Questions with inference**
+- ![Generic Questions with inference](images/generic_Question_2.png)
 
-- **Generic Questions**
-![Generic Questions](images/generic_Questions.png)
+- **Generic Question**
+![Generic Questions](images/generic_Questions_1.png)
 
 
 - **Breif Information**
-  ![Breif Information](images/tumbbad_info.png)
+![Breif Information](images/tumbbad_info.png)
