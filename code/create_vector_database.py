@@ -1,8 +1,3 @@
-import os
-
-os.environ["HF_HOME"] = "/home/ioeuser/chat/chat-tutorial/hf_cache"
-
-
 from langchain_huggingface.embeddings import HuggingFaceEmbeddings
 from langchain_community.document_loaders import CSVLoader
 from langchain_community.vectorstores import Chroma
